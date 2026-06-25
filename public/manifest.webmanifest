@@ -1,0 +1,20 @@
+{
+  "name": "OpenStage Gym",
+  "short_name": "OpenStage",
+  "description": "Verified accountability for athletes. Show up. Get seen.",
+  "start_url": "/today",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0d12",
+  "theme_color": "#0a0d12",
+  "categories": ["fitness", "lifestyle", "health"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
