@@ -2,7 +2,7 @@
 
 > **Gamify Your Habits. Build Better Routines. Stay Consistent.**
 
-Habit Forge is a modern habit tracking application that transforms daily routines into an engaging, game-like experience. Instead of simply checking off tasks, users earn XP, level up, complete streaks, unlock achievements, and visualize their progress through an intuitive dashboard.
+OpenStage is a modern habit tracking application that transforms daily routines into an engaging, game-like experience. Instead of simply checking off tasks, users earn XP, level up, complete streaks, unlock achievements, and visualize their progress through an intuitive dashboard.
 
 Designed with a clean UI and responsive experience, Habit Forge helps users stay motivated while building long-term healthy habits.
 
