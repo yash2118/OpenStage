@@ -188,19 +188,3 @@ git push origin feature-name
 
 ---
 
-## 📄 License
-
-This project is developed for educational and portfolio purposes.
-
----
-
-## 👨‍💻 Author
-
-**Yash Jain**
-
-MS Computer Science
-The University of Texas at Dallas
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
