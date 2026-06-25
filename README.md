@@ -1,4 +1,4 @@
-# 🏆 Habit Forge
+# 🏆 OpenStage
 
 > **Gamify Your Habits. Build Better Routines. Stay Consistent.**
 
